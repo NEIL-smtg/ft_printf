@@ -44,11 +44,13 @@ The function is written in C language and thus needs the **`gcc` compiler** and 
 
 **1. Compiling the library**
 
-To compile, go to the library path and run:
+To compile, simply run the following command in your terminal
 
 ```shell
-$ make
+$ bash run.sh
 ```
+
+To change input for the ft_printf, cd into srcs and look for ""main.c" and change the input
 
 **2. Using it in your code**
 
