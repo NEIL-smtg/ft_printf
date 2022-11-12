@@ -31,7 +31,7 @@
 	This project consists of coding a library that contains a simplified version (more
 	information below) of the printf function.
 
-For more detailed information, look at the [**subject of this project**](https://github.com/Surfi89/42cursus/tree/main/Subject%20PDFs).
+For more detailed information, look at the [**subject of this project**]([https://github.com/Surfi89/42cursus/tree/main/Subject%20PDFs](https://github.com/NEIL-smtg/ft_printf/blob/main/ft_printf.pdf)).
 
 
 ## 🛠️ Usage
