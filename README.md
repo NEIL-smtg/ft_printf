@@ -31,7 +31,7 @@
 	This project consists of coding a library that contains a simplified version (more
 	information below) of the printf function.
 
-For more detailed information, look at the [**subject of this project**](https://github.com/NEILsmtg/ft_printf/blob/main/ft_printf.pdf).
+For more detailed information, look at the [**subject of this project**](https://github.com/NEIL-smtg/ft_printf/blob/main/ft_printf.pdf).
 
 
 ## 🛠️ Usage
