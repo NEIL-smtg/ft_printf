@@ -10,7 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-SRC		= ft_flags.c ft_print_nb.c ft_print_nb_utils.c ft_print_ch.c ft_printf.c \
+SRC			= ft_flags.c ft_print_nb.c ft_print_nb_utils.c ft_print_ch.c ft_printf.c \
 			  ft_print_p.c ft_print_p_utils.c ft_print_usnb.c ft_print_usnb_utils.c ft_print_x.c \
 			  ft_print_x_utils.c
 LIBFT_DIR	= ../Libft
