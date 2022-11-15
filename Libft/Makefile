@@ -6,7 +6,7 @@
 #    By: suchua <suchua@student.42kl.edu.my>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/05 12:01:03 by suchua            #+#    #+#              #
-#    Updated: 2022/11/10 19:36:47 by suchua           ###   ########.fr        #
+#    Updated: 2022/11/15 18:54:34 by suchua           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -59,7 +59,7 @@ NAME    	=    libft.a
 ARCR    	=    ar -rcs
 RMRF    	=    rm -rf
 CFLAGS  	=    -Wall -Wextra -Werror
-GCC     	=    gcc
+CC 	    	=    gcc
 
 all: $(NAME)
 

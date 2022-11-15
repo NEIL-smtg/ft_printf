@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: suchua < suchua@student.42kl.edu.my>       +#+  +:+       +#+         #
+#    By: suchua <suchua@student.42kl.edu.my>        +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/31 19:07:57 by suchua            #+#    #+#              #
-#    Updated: 2022/10/31 19:07:57 by suchua           ###   ########.fr        #
+#    Updated: 2022/11/15 18:54:43 by suchua           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -17,7 +17,7 @@ LIBFT_DIR	= ../Libft
 LIBFT		= libft.a
 NAME		= libftprintf.a
 OBJS		= $(SRC:.c=.o)
-GCC			= gcc
+CC			= gcc
 CFLAGS		= -Wall -Werror -Wextra
 
 all: $(NAME)
